@@ -61,7 +61,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 197,
+    "uniqCompNum": 202,
     "versionPublish": "4.8.3",
     "screenshot": "screenshot.png"
   },
@@ -3968,7 +3968,7 @@
             "background-color": "@bgColor"
           },
           "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#f7c530\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-black\" href=\"page2.html\" data-app-placeholder=\"Type Text\">About us</a>\n                    <a class=\"btn btn-black\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\">Repository of Information</a> <a class=\"btn btn-black\" href=\"index.html\" data-app-placeholder=\"Type Text\">H1</a> <a class=\"btn btn-black\" href=\"page4.html\" data-app-placeholder=\"Type Text\">H2</a> <a class=\"btn btn-black\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\">H3</a> <a class=\"btn btn-black\" href=\"page3.html\" data-app-placeholder=\"Type Text\">Bibliography</a> <a class=\"btn btn-black\" href=\"page5.html\" data-app-placeholder=\"Type Text\">State of the Art</a> <a class=\"btn btn-black\" href=\"page5.html\" data-app-placeholder=\"Type Text\">Conceptual Map</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#f7c530\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-black\" href=\"page2.html\" data-app-placeholder=\"Type Text\">About us</a>\n                    <a class=\"btn btn-black\" href=\"page6.html\" data-app-placeholder=\"Type Text\">Repository of Information</a> <a class=\"btn btn-black\" href=\"index.html\" data-app-placeholder=\"Type Text\">H1</a> <a class=\"btn btn-black\" href=\"page4.html\" data-app-placeholder=\"Type Text\">H2</a> <a class=\"btn btn-black\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\">H3</a> <a class=\"btn btn-black\" href=\"page3.html\" data-app-placeholder=\"Type Text\">Bibliography</a> <a class=\"btn btn-black\" href=\"page5.html\" data-app-placeholder=\"Type Text\">State of the Art</a> <a class=\"btn btn-black\" href=\"page5.html\" data-app-placeholder=\"Type Text\">Conceptual Map</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "r5A1tZucty",
           "_anchor": "content8-1v",
           "_protectedParams": [],
@@ -6020,7 +6020,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>El recién nacido, durante los dos primeros meses de vida, experimenta un\n&nbsp;<span style=\"font-size: 1.2rem;\">descenso fisiológico de su hemoglobina. Un niño a término y alimentado exclusivamente </span><span style=\"font-size: 1.2rem;\">con leche materna, durante los primeros 6 meses de vida, tiene menor riesgo de&nbsp;</span><span style=\"font-size: 1.2rem;\">desarrollar anemia. La lactancia materna exclusiva en los primeros 6 meses ha sufrido&nbsp;</span><span style=\"font-size: 1.2rem;\">una reducción del 8.1 puntos porcentuales entre 2013 y el 2017 (72.3% vs 64.2%), en&nbsp;</span><span style=\"font-size: 1.2rem;\">los niños de 5 y 6 meses de edad la lactancia materna exclusiva es de 50% <b>[12]</b></span></p><p><b style=\"font-size: 1.2rem;\">Así, la lactancia materna es la práctica ideal de alimentación por muchas razones bien documentadas. Sin embargo, cuando el EBF (Exclusive Breastfeeding) continúa más allá de los 6 meses, incluso cuando la duración del EBF excede solo ligeramente las recomendaciones, la biodisponibilidad del hierro en la leche materna puede no ser suficiente para mantener el estado óptimo de hierro del lactante. Estudios previos demostraron que los recién nacidos a término con peso normal al nacer que son alimentados exclusivamente con leche materna más allá de los 6 meses de edad tienen una tasa más alta de anemia por deficiencia de hierro que los lactantes alimentados con fórmula fortificada con hierro o alimentos complementarios fortificados con hierro. [13]</b></p><p><span style=\"font-size: 1.2rem;\">Por otra parte, debido a que el EBF de los bebés continúa por períodos más prolongados, la carga de morbilidad y mortalidad por enfermedades infecciosas disminuye significativamente, por lo cual sería un proceso ideal acompañar una ingesta de leche materna con fórmulas fortificadas con hierro para así, a partir de los 6 meses, evitar la lactancia de leche materna exclusiva. <b>[14]</b></span></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>El recién nacido, durante los dos primeros meses de vida, experimenta un\n&nbsp;<span style=\"font-size: 1.2rem;\">descenso fisiológico de su hemoglobina. Un niño a término y alimentado exclusivamente </span><span style=\"font-size: 1.2rem;\">con leche materna, durante los primeros 6 meses de vida, tiene menor riesgo de&nbsp;</span><span style=\"font-size: 1.2rem;\">desarrollar anemia. La lactancia materna exclusiva en los primeros 6 meses ha sufrido&nbsp;</span><span style=\"font-size: 1.2rem;\">una reducción del 8.1 puntos porcentuales entre 2013 y el 2017 (72.3% vs 64.2%), en&nbsp;</span><span style=\"font-size: 1.2rem;\">los niños de 5 y 6 meses de edad la lactancia materna exclusiva es de 50% <b>[12]</b></span></p><p><b style=\"font-size: 1.2rem;\">Así, la lactancia materna es la práctica ideal de alimentación por muchas razones bien documentadas. Sin embargo, cuando el EBF (Exclusive Breastfeeding) continúa más allá de los 6 meses, incluso cuando la duración del EBF excede solo ligeramente las recomendaciones, la biodisponibilidad del hierro en la leche materna puede no ser suficiente para mantener el estado óptimo de hierro del lactante. Estudios previos demostraron que los recién nacidos a término con peso normal al nacer que son alimentados exclusivamente con leche materna más allá de los 6 meses de edad tienen una tasa más alta de anemia por deficiencia de hierro que los lactantes alimentados con fórmula fortificada con hierro o alimentos complementarios fortificados con hierro. [13]</b></p><p><span style=\"font-size: 1.2rem;\">Por otra parte, debido a que el EBF de los bebés continúa por períodos más prolongados, la carga de morbilidad y mortalidad por enfermedades infecciosas disminuye significativamente, por lo cual sería un proceso ideal acompañar una ingesta de leche materna con fórmulas fortificadas con hierro para así, a partir de los 6 meses, evitar la lactancia de leche materna exclusiva.</span></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "r7lAcgrAch",
           "_protectedParams": [],
           "_global": false,
@@ -6076,6 +6076,63 @@
           "_once": false,
           "_params": {},
           "_anchor": "progress-bars3-55"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "color": "#000000"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#232323\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#f7c530\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-1\" data-app-selector=\".section-text\" mbr-text>Malos hábitos alimenticios</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_anchor": "content9-5h",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "r7mKfsTs25",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "text-align": "center"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>Los bebes durante su etapa temprana y posteriores años  como todo ser humano son  organismos complejos e integrales, y debido a ello es fundamental el  tener en cuenta una buena y nutritiva alimentación, ya que esta es la base para un óptimo desarrollo tanto a nivel físico como intelectual, de lo contrario , como consecuencia no solo llegaría a presentarse una potencial  desnutrición , sino  también la posibilidad de una anemia (en este caso por deficiencia de hierro ). [14]<b>\n</b><div><b>\n</b></div><div><b>En una primera instancia cuando el bebe requiere de la lactancia de la madre es de suma importancia que la madre este bien alimentada , y en caso sea necesario consumir suplementos adicionales ricos en hierro y calcio para que su leche materna contenga todos los nutrientes necesarios para la buena alimentación del bebe.\n</b></div><div>Al igual que se observa en la figura, una dieta balanceada seria lo mas ideal , una dieta basada en carbohidratos , vegetales, carnes , frutas , derivados de la leche, grasas animales  y grasas naturales .Sin embargo, para madres que están dando de lactar  se debe tener en cuenta de manera mas rigurosa los alimentos que se consumen.\n</div><div><b>\n</b></div><div><b>En segunda instancia se debe tener en cuenta que muchos de los infantes que  dejan de tomar leche materna, en el Perú por ejemplo un gran número de  600 mil niños de tres años tienen a desarrollar anemia [15] &nbsp;lo cual es muy alarmante y se deberían tomar medidas al respecto.\n</b></div><div><b>Muchos pediatras por ello recomiendan la suplementación adicional con leche en polvo enriquecida en nutrientes , vitaminas , minerales para el completo desarrollo del bebe.&nbsp;\n</b></div><div><b>\n</b></div><div>Por otro lado se sabe que muchas familias optan por inscribir a sus niños pequeños a los jardines (pre -kinder o kindergarten)  debido a que conocen y son conscientes de que ello es muy favorable tanto para el buen desarrollo de habilidades como para su introducción en la sociabilización con otros niños/as.\n</div><div><b>\n</b></div><div><b>Sin embargo también es  importante recalcar que la construcción de hábitos, sobre todo los de alimentación, no puede ser antagónica entre el jardín y la casa, pues de la colaboración entre los dos escenarios depende la prevención de otros trastornos de la alimentación, los cuales se pueden manifestar más adelante en el infante.\n</b></div><div><b><br></b><div><b><br></b></div></div></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "r7mKmrqlUU",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content1-5i"
         }
       ]
     },
@@ -7528,6 +7585,82 @@
           "_once": "menu",
           "_params": {},
           "_anchor": "menu1-57"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "color": "#767676"
+            },
+            "B": {
+              "color": "#f9f9f9"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#000000\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\"><b>\n                    Repositorio de Información</b></h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\"></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "r7mMRGwUxD",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content4-5j"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".counter-container": {
+              "color": "#767676",
+              "ul": {
+                "margin-bottom": "0",
+                "li": {
+                  "margin-bottom": "1rem",
+                  "& when (@stylizedCounters)": {
+                    "list-style": "none",
+                    "&:before": {
+                      "position": "absolute",
+                      "left": "0px",
+                      "margin-top": "-10px",
+                      "padding-top": "3px",
+                      "content": "''",
+                      "display": "inline-block",
+                      "text-align": "center",
+                      "margin": "5px 10px",
+                      "line-height": "20px",
+                      "transition": "all .2s",
+                      "color": "contrast(@counterColor)",
+                      "background": "@counterColor",
+                      "width": "25px",
+                      "height": "25px",
+                      "border-radius": "50%",
+                      "& when (@countersType = 'circle')": {
+                        "background": "none",
+                        "border": "1px solid @counterColor",
+                        "color": "@counterColor"
+                      },
+                      "& when (@countersType = 'square')": {
+                        "border-radius": "0"
+                      },
+                      "& when (@mark)": {
+                        "content": "'✓'"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "_name": "content12",
+          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#f7c530\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" condition=\"stylizedCounters\" checked>\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\">Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\" selected>Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ul>\n                    <li><b>http://www.revistasbolivianas.org.bo/pdf/ucs/n13/n13_a02.pdf: </b>Parasitosis.</li>\n                    <li><b>https://jamanetwork.com/journals/jamapediatrics/fullarticle/2596270: </b>Pinzamiento del cordón umbilical.</li><li><b>http://www.uu.se/en/news/news-document/ id=8054&amp;typ=artikel&amp;area=2&amp;lang=en: </b>Pinzamiento del cordón umbilical.</li>\n                    <li><b>https://vital.rpp.pe/expertos/la-diferencia-entre-anemia-y-deficiencia-de-hierro-noticia-1138685: </b>Columna del ginecólogo Enrique Flint sobre la diferencia entre anemia y deficiencia de hierro.</li><li><b>http://www.regioncajamarca.gob.pe/sites/default/files/documentos/fed/Plan%20Multisectorial%20contra%20la%20Anemia%20DS%20068-2018-PCM.pdf: </b>Plan multisectorial de lucha contra la anemia. Aprobado en el año 2018.</li><li><b>http://repositorio.uwiener.edu.pe/handle/123456789/1710:</b> Relación entre desarrollo psicomotor y anemia.</li><li><b>https://busquedas.elperuano.pe/normaslegales/decreto-supremo-que-aprueba-el-plan-multisectorial-de-lucha-decreto-supremo-n-068-2018-pcm-1665488-3/: </b>Decreto supremo publicado en El Peruano sobre el Plan multisectorial de lucha contra la anemia.</li><li><b>https://www.youtube.com/watch?v=2goHRtmPmHM: </b>Consecuencias graves de la anemia en los niños.</li><li><b>https://www.youtube.com/watch?v=3EWTSGucPHo: </b>Entrevista a ministra Iliana la Rosa (Midis) sobre el Plan multisectorial de lucha contra la anemia.</li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "r7mOAOiyuR",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content12-5l"
         }
       ]
     }
